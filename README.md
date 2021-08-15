@@ -27,8 +27,7 @@
 <a href="https://www.youtube.com/channel/UCIWB_c5Hfnj5q7KvP1FxwKQ?view_as=subscriber" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/mwlite/in/larissa-balieiro-020833191" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <div/>
+    
+  ! [ Animação de cobra ] (https://github.com/laribalieiro/laribalieiro/blob/output/github-contribution-grid-snake.svg)
 
-  
-  ![Snake animation](https://github.com/laribalieiro/laribalieiro/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<div />    
