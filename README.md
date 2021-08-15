@@ -1,5 +1,6 @@
 ### Olá eu sou a Larissa Balieiro 👋
 
+- 🔭  Trabalho Atualmente com Assitente de TI### Olá 
 - 🔭  Trabalho Atualmente com Assitente de TI
 - 🌱  Estou aprendendo a  usar HTML,CSS,Java Script e  C#
 - 📫 Entre em Contato pelo E-mail : larissa.cristina.balieiro@gmail.com
@@ -15,6 +16,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Rafa-yoda" src="file:///C:/Users/laris/Downloads/image_1629056818.html">
 </div>
   
   ##
@@ -25,3 +27,4 @@
 <a href="https://www.youtube.com/channel/UCIWB_c5Hfnj5q7KvP1FxwKQ?view_as=subscriber" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/mwlite/in/larissa-balieiro-020833191" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <div/>
+
