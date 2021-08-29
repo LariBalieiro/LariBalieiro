@@ -3,10 +3,11 @@
 - 🔭  Trabalho Atualmente com Assitente de TI
 - 🌱  Estou aprendendo a  usar HTML,CSS,Java Script e  C#
 - 📫 Entre em Contato pelo E-mail : larissa.cristina.balieiro@gmail.com
- <div>
+
+<div style = "display: block">
   <a href="https://github.com/laribalieiro">
-  <img height="148em" src="https://github-readme-stats.vercel.app/api?username=laribalieiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laribalieiro&layout=compact&langs_count=7&theme=dracula"/> 
+  <img style= height="180em"; font-size:"18px"; src="https://github-readme-stats.vercel.app/api?username=laribalieiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img style= height="180em"; font-size:"18px"; src="https://github-readme-stats.vercel.app/api/top-langs/?username=laribalieiro&layout=compact&langs_count=7&theme=dracula"/> 
 </div>
  
  <div style = "display: inline_block"> <br/>
