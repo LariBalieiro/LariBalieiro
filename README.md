@@ -1,6 +1,6 @@
 ### Olá eu sou a Larissa Balieiro 👋
 
-- 🔭  Estou a Procura de Emprego na Área de TI
+- 🔭  Desenvolvedora Front-end
 - 🌱  Estou aprendendo a  usar HTML,CSS,Java Script e  C#
 - 📫 Entre em Contato pelo E-mail : larissa.cristina.balieiro@gmail.com
 
