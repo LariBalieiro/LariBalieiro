@@ -1,7 +1,7 @@
 ### Olá eu sou a Larissa Balieiro 👋
 
-- 🔭  Desenvolvedora Front-end
-- 🌱  Estou aprendendo a  usar HTML,CSS,Java Script e  C#
+- 🎓 Estou cursando Análise e Desenvolvimento de Sistemas
+- 🌱  Estou aprendendo HTML,CSS,Java Script e  C#
 - 📫 Entre em Contato pelo E-mail : larissa.cristina.balieiro@gmail.com
 
 <div style = "display: block">
