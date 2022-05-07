@@ -1,7 +1,7 @@
 ### Olá eu sou a Larissa Balieiro 👋
 
 - 🎓 Estou cursando Análise e Desenvolvimento de Sistemas
-- 🌱  Estou aprendendo HTML,CSS,Java Script e  C#
+- 🌱  Estou aprendendo Java Script, C# e SQL
 - 📫 Entre em Contato pelo E-mail : larissa.cristina.balieiro@gmail.com
 
 <div style = "display: block">
