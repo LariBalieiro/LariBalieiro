@@ -19,9 +19,9 @@
   <img align="center" alt="Lari-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Lari-Gimp" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg">
   <img align="center" alt="Lari-Illustrator" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg">
-  <img align="right" alt="Lari-yoda" heigth="100" width="150" src="https://cdn.discordapp.com/attachments/435622618284949505/876561271112232960/output_rPzQEr.gif">
-</div>
   
+</div>
+   <img align="right" alt="Lari-yoda" heigth="100" width="150" src="https://cdn.discordapp.com/attachments/435622618284949505/876561271112232960/output_rPzQEr.gif">
   ##
   
 <div>
