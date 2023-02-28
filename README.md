@@ -27,6 +27,7 @@
    <img align="center" alt="Lari-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
    <img align="center" alt="Lari-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
    <img align="center" alt="Lari-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+   <img align="center" alt="Lari-Psotgress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="right" alt="Lari-yoda" heigth="100" width="150" src="https://cdn.discordapp.com/attachments/435622618284949505/876561271112232960/output_rPzQEr.gif">
 </div>
   
