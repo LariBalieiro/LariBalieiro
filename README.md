@@ -1,10 +1,10 @@
 ### Olá eu sou a Larissa Balieiro 👋
 
-- 🎓 Estou cursando Análise e Desenvolvimento de Sistemas
-- 🌱  Estou aprendendo PHP7,MySql e React
+- 🎓 Tecnologa em Análise e Desenvolvimento de Sistemas
+- 🌱  Estou aprendendo microsserviços e spring boot
 - 📫 Entre em Contato pelo E-mail : larissa.cristina.balieiro@gmail.com
 
-- 🧠 Possuo conhecimento em ES6, Chart.js, LocalStorager e Programação Orientada a Objetos. Em Meus tempos livre estou estudando a Lingua Brasileira de Sinais. mais conhecida como LIBRAS, Busco sempre estar em contato com aprendizado e pesquisas.
+- 🧠 Possuo conhecimento em Desenvolvimento de Front-End e Back-End. Tenho experiencia trabalhando com Desenvolvimento Front-End em uma fabrica de Sofware, Em Meus tempos livre estou estudando a Lingua Brasileira de Sinais. mais conhecida como LIBRAS, Busco sempre estar em contato com aprendizado e pesquisas.
 
 <div style = "display: block">
   <a href="https://github.com/laribalieiro">
