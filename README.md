@@ -1,7 +1,7 @@
 ### Olá eu sou a Larissa Balieiro 👋
 
 - 🎓 Tecnologa em Análise e Desenvolvimento de Sistemas
-- 🌱  Estou aprendendo microsserviços e spring boot
+- 🌱  Estou aprendendo AWS e Serviços em Cloud
 - 📫 Entre em Contato pelo E-mail : larissa.cristina.balieiro@gmail.com
 
 - 🧠 Possuo conhecimento em Desenvolvimento de Front-End e Back-End. Tenho experiencia trabalhando com Desenvolvimento Front-End em uma fabrica de Sofware, Em Meus tempos livre estou estudando a Lingua Brasileira de Sinais. mais conhecida como LIBRAS, Busco sempre estar em contato com aprendizado e pesquisas.
