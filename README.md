@@ -6,7 +6,7 @@
 - 🎓 Formada em Análise e Desenvolvimento de Sistemas
 - 🌱  Estou aprendendo AWS e Serviços em Cloud
 - 📫 Entre em Contato pelo E-mail : larissa.cristina.balieiro@gmail.com
-- 🧠 Possuo conhecimento em Desenvolvimento de Front-End e Back-End. Tenho experiencia trabalhando com Desenvolvimento Front-End em uma fabrica de Sofware, Em Meus tempos livre estou estudando a Lingua Brasileira de Sinais. mais conhecida como LIBRAS, Busco sempre estar em contato com aprendizado e pesquisas.
+- 🧠 Desenvolvedora Full Stack com experiência em PHP, MySQL e integração de APIs. Focada em criar soluções escaláveis e seguras, atualmente estudando Cloud Computing (AWS) para ampliar competências em arquiteturas modernas.
 
 <div style = "display: inline_block"> <br/>
    <p>Main skills:</p>
@@ -18,18 +18,19 @@
    ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
    ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br>
    ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+   ![image](https://img.shields.io/badge/Jquery-323330?style=for-the-badge&logo=jquery&logoColor=F7DF1E)
    ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
    ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
    ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-   ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-   ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)<br>
-   ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+   ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)<br>
+   ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
    ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
    <p>📘Studying in this moment:</p>
    
    ![image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 </div>
+
 <br>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=laribalieiro&show_icons=true&count_private=true&hide_border=true&title_color=76D7C4&icon_color=76D7C4&text_color=c9d1d9&bg_color=0d1117" alt="Larissa Balieiro github stats" /> 
